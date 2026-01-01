@@ -92,7 +92,7 @@ class CI_Benchmark {
 		return number_format(($em + $es) - ($sm + $ss), $decimals);
 	}
 
-	// --------------------------------------------------------------------
+
 
 	/**
 	 * Memory Usage
