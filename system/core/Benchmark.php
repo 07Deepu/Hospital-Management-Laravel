@@ -53,7 +53,7 @@ class CI_Benchmark {
 		$this->marker[$name] = microtime();
 	}
 
-	// --------------------------------------------------------------------
+
 
 	/**
 	 * Calculates the time difference between two marked points.
