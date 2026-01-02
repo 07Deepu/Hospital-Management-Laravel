@@ -281,7 +281,7 @@ class CI_Config {
 		return $this->slash_item('base_url').ltrim($this->_uri_string($uri), '/');
 	}
 
-	// -------------------------------------------------------------
+	// 
 
 	/**
 	 * Build URI string for use in Config::site_url() and Config::base_url()
