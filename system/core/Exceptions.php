@@ -149,7 +149,7 @@ class CI_Exceptions {
 		return $buffer;
 	}
 
-	// --------------------------------------------------------------------
+	// 
 
 	/**
 	 * Native PHP error handler
