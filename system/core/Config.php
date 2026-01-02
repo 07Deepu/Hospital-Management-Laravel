@@ -174,7 +174,7 @@ class CI_Config {
 		return TRUE;
 	}
 
-	// --------------------------------------------------------------------
+	// 
 
 	/**
 	 * Fetch a config file item
