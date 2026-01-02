@@ -70,7 +70,7 @@ class CI_Exceptions {
 		// Note:  Do not log messages from this constructor.
 	}
 
-	// --------------------------------------------------------------------
+	// 
 
 	/**
 	 * Exception Logger
