@@ -332,7 +332,7 @@ class CI_Config {
 		return $this->slash_item('base_url').end($x).'/';
 	}
 
-	// --------------------------------------------------------------------
+	// 
 
 	/**
 	 * Set a config file item
