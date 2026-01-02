@@ -215,7 +215,6 @@ class CI_Config {
 		return $pref;
 	}
 
-	// --------------------------------------------------------------------
 
 	/**
 	 * Fetch a config file item - adds slash after item (if item is not empty)
