@@ -90,7 +90,7 @@ class CI_Router {
 		log_message('debug', "Router Class Initialized");
 	}
 
-	// --------------------------------------------------------------------
+
 
 	/**
 	 * Set the route mapping
