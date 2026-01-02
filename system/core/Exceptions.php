@@ -91,7 +91,7 @@ class CI_Exceptions {
 		log_message('error', 'Severity: '.$severity.'  --> '.$message. ' '.$filepath.' '.$line, TRUE);
 	}
 
-	// --------------------------------------------------------------------
+	// 
 
 	/**
 	 * 404 Page Not Found Handler
