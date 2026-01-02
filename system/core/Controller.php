@@ -13,7 +13,7 @@
  * @filesource
  */
 
-// ------------------------------------------------------------------------
+// 
 
 /**
  * CodeIgniter Application Controller Class
