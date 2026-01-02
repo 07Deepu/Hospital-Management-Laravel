@@ -27,7 +27,6 @@
  * @link		http://codeigniter.com/user_guide/
  */
 
-// ------------------------------------------------------------------------
 
 /**
 * Determines if the current version of PHP is greater then the supplied value
